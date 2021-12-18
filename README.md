@@ -14,3 +14,5 @@ go build -ldflags="-s -w" -o snake main.go
 ```
 
 -   This will create a `snake` binary that you can execute by running `./snake`
+
+-   Use arrow keys to move the snake around
